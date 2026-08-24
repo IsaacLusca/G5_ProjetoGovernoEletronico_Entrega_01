@@ -96,3 +96,28 @@ Regras visuais obrigatórias:
 - Não invente etapas além das descritas.
 - Evite cruzamento de setas e mantenha os rótulos legíveis.
 - Dê destaque visual moderado às decisões de privacidade “tipo de informação” e “preservar identidade”, sem abandonar a notação BPMN.
+
+## Prompt 3 — Rich Picture complementar do contexto
+
+Crie um **Rich Picture acadêmico**, em português do Brasil, formato paisagem, fundo claro, alta resolução e texto legível, representando o contexto observado por engenharia reversa no projeto **G5_ProjetoGovernoEletronico**. Este artefato é complementar e não substitui os diagramas BPMN.
+
+No centro, represente o portal governamental como mediador entre o **Cidadão** e quatro elementos externos: **Fontes oficiais**, **GOV.BR**, **Órgão público responsável** e **Legislação/controle social**. Use setas com rótulos curtos para mostrar:
+
+- o cidadão descreve uma necessidade de informação;
+- o portal interpreta a consulta com apoio de IA e pesquisa fontes oficiais;
+- as fontes devolvem resultados de pedidos LAI, transparência e dados abertos;
+- quando a busca não basta, o cidadão registra um pedido;
+- o GOV.BR autentica o cidadão;
+- o órgão público recebe, analisa e responde ao pedido;
+- o portal entrega protocolo, acompanhamento e resposta ao cidadão.
+
+Inclua balões ou anotações de preocupação, sem poluir a composição:
+
+- “A interpretação por IA pode conter imprecisões”;
+- “Evitar dados pessoais não essenciais”;
+- “Preservação da identidade”;
+- “Consentimento e cookies”;
+- “Resultados extensos podem aumentar a carga cognitiva”;
+- “Transparência pública × proteção de dados pessoais”.
+
+Use estilo de **Rich Picture profissional com aparência de esboço de anotação**, ícones simples e discretos, poucas cores em azul, cinza e amarelo, hierarquia visual clara e conexões fáceis de seguir. Não use o nome da plataforma real usada como inspiração. Não represente banco de dados, código-fonte, servidores, APIs privadas ou detalhes internos não observados. Não apresente o artefato como BPMN, fluxograma formal, mapa mental ou mockup de interface.
